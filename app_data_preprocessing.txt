@@ -1,0 +1,13 @@
+App Name            object
+Category            object
+Rating             float64
+Reviews              int64
+Installs             int64
+Size                object
+Price              float64
+Content Rating      object
+Last Updated        object
+Minimum Version     object
+Latest Version      object
+dtype: object
+<class 'pandas.core.frame.DataFrame'>
